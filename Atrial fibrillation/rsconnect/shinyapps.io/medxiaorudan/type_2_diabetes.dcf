@@ -1,0 +1,10 @@
+name: type_2_diabetes
+title:
+username:
+account: medxiaorudan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 382271
+bundleId: 1483500
+url: https://medxiaorudan.shinyapps.io/type_2_diabetes/
+when: 1531789604.07867
